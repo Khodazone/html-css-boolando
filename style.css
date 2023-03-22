@@ -45,3 +45,13 @@
     width: 100%;
     object-fit: contain;
 }
+
+.end {
+    background-color: black;
+}
+
+.left-end {
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
