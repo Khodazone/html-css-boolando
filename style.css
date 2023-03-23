@@ -11,6 +11,8 @@
 }
 
 #table-cards {
+    margin: auto;
+    width: 70%;
     justify-content: space-between;
 }
 
